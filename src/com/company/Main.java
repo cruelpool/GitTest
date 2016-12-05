@@ -6,7 +6,6 @@ public class Main {
         System.out.println(11);
         System.out.println(7);
 
-//sdfdfgsdfsdf
         System.out.println(19);
         
     }
