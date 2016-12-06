@@ -10,6 +10,6 @@ public class NewClass {
 
         System.out.println(78);
 
-        System.out.println(54);
+        System.out.println(4);
     }
 }
