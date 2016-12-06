@@ -6,6 +6,8 @@ package com.company;
 public class NewerClass {
 
 
+    public static void main(String[] args) {
 
+    }
 
 }
