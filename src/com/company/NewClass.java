@@ -6,6 +6,6 @@ package com.company;
 public class NewClass {
     //dasdasdad
     public static void main(String[] args) {
-        System.out.println(45);
+        System.out.println(4);
     }
 }
