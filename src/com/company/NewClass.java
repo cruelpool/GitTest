@@ -8,6 +8,6 @@ public class NewClass {
     public static void main(String[] args) {
         System.out.println(78);
 
-        //ddd
+        System.out.println(554);
     }
 }
