@@ -6,6 +6,8 @@ package com.company;
 public class NewClass {
     //dasdasdad
     public static void main(String[] args) {
-        System.out.println(8);
+        System.out.println(78);
+
+        System.out.println(554);
     }
 }
